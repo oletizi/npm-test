@@ -1,11 +1,11 @@
 {
   "name": "@oletizi/npm-test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Test npm package",
   "main": "index.js",
   "repository": {
-    "type" : "git",
-    "url" : "git@github.com:oletizi/npm-test.git"
+    "type": "git",
+    "url": "git@github.com:oletizi/npm-test.git"
   },
   "scripts": {
     "test": "mocha",
