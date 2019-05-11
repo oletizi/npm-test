@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "Test npm package",
   "main": "index.js",
+  "repository": {
+    "type" : "git",
+    "url" : "git@github.com:oletizi/npm-test.git"
+  },
   "scripts": {
     "test": "mocha",
     "run": "node index.js"
