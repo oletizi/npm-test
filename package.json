@@ -4,7 +4,8 @@
   "description": "Test npm package",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/mocha"
+    "test": "mocha",
+    "run": "node index.js"
   },
   "author": "Orion Letizi",
   "license": "ISC",
